@@ -1,0 +1,1 @@
+javac.memoryMaximumSize=1024m

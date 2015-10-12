@@ -45,7 +45,7 @@
         "dependencies": ["exports", "module", "metal/src/events/EventHandle"]
     },
     "frontend-js-metal-web@1.0.0/metal/src/events/EventEmitter": {
-        "dependencies": ["exports", "module", "metal/src/core", "metal/src/disposable/Disposable", "metal/src/events/EventHandle"]
+        "dependencies": ["exports", "module", "metal/src/core", "metal/src/array/array", "metal/src/disposable/Disposable", "metal/src/events/EventHandle"]
     },
     "frontend-js-metal-web@1.0.0/metal/src/events/EventEmitterProxy": {
         "dependencies": ["exports", "module", "metal/src/core", "metal/src/dom/dom", "metal/src/disposable/Disposable"]
@@ -90,7 +90,7 @@
         "dependencies": ["exports", "module", "metal/src/core"]
     },
     "frontend-js-metal-web@1.0.0/metal/src/array/array": {
-        "dependencies": ["exports", "module"]
+        "dependencies": ["exports", "module", "metal/src/core"]
     },
     "frontend-js-metal-web@1.0.0/crystal-treeview/src/Treeview": {
         "dependencies": ["exports", "module", "metal/src/component/ComponentRegistry", "metal/src/soy/SoyComponent", "metal/src/dom/dom", "crystal-treeview/src/Treeview.soy", "metal-jquery-adapter/src/JQueryAdapter"]

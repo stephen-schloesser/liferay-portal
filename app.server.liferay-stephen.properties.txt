@@ -1,0 +1,3 @@
+app.server.type=tomcat
+app.server.parent.dir=D:/Projects/Liferay/bundles
+app.server.tomcat.dir=D:/Projects/Liferay/bundles/tomcat-7.0.62
